@@ -1,9 +1,13 @@
 # maven-repo
-Iunius118' maven repository
+
+Iunius118's Maven repository
 
 ## Setup
+
 ### Gradle
+
 #### build.gradle
+
 ```gradle
 repositories {
   maven {
