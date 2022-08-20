@@ -12,8 +12,8 @@ Iunius118's Maven repository
 
 ```gradle
 repositories {
-  maven {
-    url 'https://iunius118.github.io/maven-repo'
-  }
+    maven {
+        url 'https://iunius118.github.io/maven-repo'
+    }
 }
 ```
