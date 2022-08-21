@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.github.iunius118</groupId>
-  <artifactId>testcapsmod</artifactId>
+  <artifactId>testcapsmod-api</artifactId>
   <versioning>
-    <latest>1.19.2-2.0.0</latest>
-    <release>1.19.2-2.0.0</release>
+    <latest>2.0.0</latest>
+    <release>2.0.0</release>
     <versions>
-      <version>1.19.2-2.0.0</version>
+      <version>2.0.0</version>
     </versions>
     <lastUpdated>20220821065253</lastUpdated>
   </versioning>
